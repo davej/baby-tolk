@@ -63,6 +63,6 @@
     "node-sass": "3.6.0",
     "stylus": "0.54.5",
     "swig": "^1.4.2",
-    "unexpected": "10.13.2"
+    "unexpected": "10.13.3"
   }
 }
