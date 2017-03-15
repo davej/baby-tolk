@@ -40,7 +40,7 @@
   "dependencies": {
     "accord": "^0.26.0",
     "app-module-path": "1.1.0",
-    "clean-css": "^3.4.18",
+    "clean-css": "^4.0.9",
     "html-minifier": "3.0.3",
     "path-complete-extname": "0.1.0",
     "uglify-js": "^2.7.0",
