@@ -43,7 +43,7 @@
     "clean-css": "^3.4.18",
     "html-minifier": "3.0.3",
     "path-complete-extname": "0.1.0",
-    "uglify-js": "^2.7.0",
+    "uglify-js": "^3.0.7",
     "when": "^3.7.5"
   },
   "devDependencies": {
